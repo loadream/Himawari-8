@@ -34,3 +34,10 @@ crontab -e
 之类的定时任务，设置每隔一段时间自动下载一张最新的
 
 index.php 和 api.php 是一个简单的展示和输出最新的图像url的工具
+
+
+# Windows 壁纸版
+
+HimawariWallpaper.py 是Windows 设置壁纸的源码
+
+可以直接去 https://github.com/loadream/Himawari-8/releases 下载使用
