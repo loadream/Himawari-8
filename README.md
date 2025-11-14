@@ -27,6 +27,8 @@ python脚本，可以爬取向日葵8号的卫星图像4d版，并合并成一�
 
 也可以使用 
 
+crontab -e
+
 */15 * * * * python3 /home/Earth/himawari8.py >> /home/Earth/himawari8.log 2>&1
 
 之类的定时任务，设置每隔一段时间自动下载一张最新的
