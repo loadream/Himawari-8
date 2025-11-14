@@ -5,13 +5,13 @@ python脚本，可以爬取向日葵8号的卫星图像4d版，并合并成一�
 
 新建 /home/Earth 和 /home/Earth/himawari 目录
 
-# 确保安装了 pip
+# 安装所需的 Python 库
 sudo apt update
 
 sudo apt install python3-pip
 
-# 安装所需的 Python 库
 pip3 install requests Pillow schedule
+
 
 可以使用 python3 himawari8.py 手动运行下载一次
 
