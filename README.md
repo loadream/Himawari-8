@@ -40,4 +40,6 @@ index.php 和 api.php 是一个简单的展示和输出最新的图像url的工�
 
 HimawariWallpaper.py 是Windows 设置壁纸的源码
 
-可以直接去 https://github.com/loadream/Himawari-8/releases 下载使用
+可以去 https://github.com/loadream/Himawari-8/releases 下载使用
+
+或者直接去壁纸引擎：https://steamcommunity.com/sharedfiles/filedetails/?id=3605572374
