@@ -7,6 +7,7 @@ python脚本，可以爬取向日葵8号的卫星图像4d版，并合并成一�
 
 # 确保安装了 pip
 sudo apt update
+
 sudo apt install python3-pip
 
 # 安装所需的 Python 库
