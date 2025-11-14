@@ -1,11 +1,13 @@
 # Himawari-8
 爬取向日葵8号的卫星图像合并
 
+
 # 简易的预览效果
 
-https://earth.loadream.com/
 
-https://earth.loadream.com/api.php
+<a href="https://earth.loadream.com/" target="_blank" rel="noopener noreferrer">https://earth.loadream.com/</a>
+
+api：https://earth.loadream.com/api.php
 
 
 # 安装所需的 Python 库
